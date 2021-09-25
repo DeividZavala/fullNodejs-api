@@ -15,11 +15,12 @@ const server = http.createServer(function (req, res) {
   // Getting query string object
   const queryStringObject = parsedUrl.query;
 
+  // Get headers as an object
+  const headers = req.headers;
+
   res.end("hello World!");
 
-  console.log(
-    `path requested: ${trimmedPath} with method ${method} and these query string params ${queryStringObject}`
-  );
+  console.log(headers);
 });
 
 server.listen("3000", function () {
