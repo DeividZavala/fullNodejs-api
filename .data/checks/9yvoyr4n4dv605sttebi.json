@@ -1,1 +1,1 @@
-{"id":"9yvoyr4n4dv605sttebi","userPhone":"5565345630","protocol":"http","url":"yahoo.com","method":"http","successCodes":[200,204,403],"timeoutSeconds":2}
+{"id":"9yvoyr4n4dv605sttebi","userPhone":"5565345630","protocol":"https","url":"yahoo.com","method":"get","successCodes":[200,204,301,302],"timeoutSeconds":2,"state":"up","lastChecked":1640041068567}

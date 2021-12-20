@@ -1,1 +1,1 @@
-{"id":"emr9yb3qyen5a6nzht8d","userPhone":"5565345630","protocol":"http","url":"google.com","method":"http","successCodes":[200,204],"timeoutSeconds":3}
+{"id":"emr9yb3qyen5a6nzht8d","userPhone":"5565345630","protocol":"https","url":"google.com","method":"get","successCodes":[200,204,301,302],"timeoutSeconds":3,"state":"up","lastChecked":1640041068480}
